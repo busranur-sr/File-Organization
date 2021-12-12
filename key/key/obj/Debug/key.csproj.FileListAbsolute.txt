@@ -1,0 +1,7 @@
+C:\Users\user\Desktop\File\key\key\bin\Debug\key.exe.config
+C:\Users\user\Desktop\File\key\key\bin\Debug\key.exe
+C:\Users\user\Desktop\File\key\key\bin\Debug\key.pdb
+C:\Users\user\Desktop\File\key\key\obj\Debug\key.csprojAssemblyReference.cache
+C:\Users\user\Desktop\File\key\key\obj\Debug\key.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\File\key\key\obj\Debug\key.exe
+C:\Users\user\Desktop\File\key\key\obj\Debug\key.pdb
